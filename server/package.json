@@ -1,0 +1,14 @@
+{
+    "name": "QChat",
+    "description": "a realtime chat web application",
+    "version": "0.1.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "4.14.x",
+        "socket.io": "1.4.x"
+    },
+    "engines": {
+        "node": "5.10.x",
+        "npm": "3.8.x"
+    }
+}
